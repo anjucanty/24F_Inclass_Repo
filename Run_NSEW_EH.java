@@ -12,6 +12,8 @@ public class Run_NSEW_EH {
 		In NSEW3 class, define a setDirection method that reads-in a direction and invokes an exception handler class method to indicate a valid direction (N, S, E, W) was entered
 		EH method also ensures only N, S, E, or W can be entered, such that the system will not fail if a non-NSEW entry occurs
 		*/
+
+		System.out.println("Anju Canty");
 		
 		
 		NSEW3 nsew = new NSEW3();
